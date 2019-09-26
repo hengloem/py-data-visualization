@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cb65bd0e-7097-4d88-a393-253d59d66666" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/barchart.py" beforeDir="false" afterPath="$PROJECT_DIR$/barchart.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.barchart">
+  <component name="RunManager" selected="Python.main">
     <configuration name="barchart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data-visualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphchart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,9 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.barchart" />
         <item itemvalue="Python.piechart" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
